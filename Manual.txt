@@ -1,0 +1,14 @@
+Script on Automation of sending message to person in whatsapp web
+
+Install python in your windows 
+
+for windows in cmd : 
+	python -m pip install --upgrade pip
+	pip  install selenium
+
+keep all files in place and run in IDLE from same path
+
+Enter name of Group or Person name as it is 
+Then Enter Message
+
+Message Sent
